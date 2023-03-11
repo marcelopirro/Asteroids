@@ -1,0 +1,20 @@
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+    margin: 0;
+    overflow-y: hidden;
+    background-color: rgb(199, 199, 199);
+    font-family: 'Orbitron';
+    text-align:center;
+    display: flex;
+    align-items: center;
+}
+
+canvas{
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+
