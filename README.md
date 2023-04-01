@@ -20,3 +20,6 @@ The game follows the standard rules of Asteroid. Use the arrow keys to move your
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request with your changes or suggestions.
+
+![image](https://user-images.githubusercontent.com/79222545/229266489-2c11cf11-d2f2-4ef6-a449-d848059fb59f.png)
+
